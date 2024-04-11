@@ -2259,6 +2259,11 @@ pify@^2.3.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
   integrity sha512-udgsAY+fTnvv7kI7aaxbqwWNb0AHiB0qBO89PZKPkoTmGOgdbrHDKD+0B2X4uTfJ/FT1R09r9gTsjUjNJotuog==
 
+pinia-plugin-persistedstate@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/pinia-plugin-persistedstate/-/pinia-plugin-persistedstate-3.2.1.tgz#66780602aecd6c7b152dd7e3ddc249a1f7a13fe5"
+  integrity sha512-MK++8LRUsGF7r45PjBFES82ISnPzyO6IZx3CH5vyPseFLZCk1g2kgx6l/nW8pEBKxxd4do0P6bJw+mUSZIEZUQ==
+
 pinia@^2.1.7:
   version "2.1.7"
   resolved "https://registry.yarnpkg.com/pinia/-/pinia-2.1.7.tgz#4cf5420d9324ca00b7b4984d3fbf693222115bbc"
@@ -2500,6 +2505,7 @@ speakingurl@^14.0.1:
   integrity sha512-1POYv7uv2gXoyGFpBCmpDVSNV74IfsWlDW216UPjbWufNf+bSU6GdbDsxdcxtfwb4xlI3yxzOTKClUosxARYrQ==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -2687,6 +2693,11 @@ undici-types@~5.26.4:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
+uniqolor@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/uniqolor/-/uniqolor-1.1.1.tgz#ef35e41d930d31b90228a18d82dd151b8106b2f3"
+  integrity sha512-HUwezlXCwm5bzsEXW7AP7ybezH13uWENRgYT+3dOdhJPvpYucSqvIGckMiLn+Uy2j0NVf3fPp43uZ4aun3t4Ww==
+
 universalify@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.1.tgz#168efc2180964e6386d061e094df61afe239b18d"
@@ -2788,6 +2799,11 @@ vue-eslint-parser@^9.3.1, vue-eslint-parser@^9.4.2:
     esquery "^1.4.0"
     lodash "^4.17.21"
     semver "^7.3.6"
+
+vue-material-design-icons@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/vue-material-design-icons/-/vue-material-design-icons-5.3.0.tgz#c56cf5cddcde234e073d93bbf21a266d2144fb9b"
+  integrity sha512-wnbRh+48RwX/Gt+iqwCSdWpm0hPBwwv9F7MSouUzZ2PsphYVMJB9KkG9iGs+tgBiT57ZiurFEK07Y/rFKx+Ekg==
 
 vue-router@^4.3.0:
   version "4.3.0"
